@@ -1,4 +1,3 @@
-# Ola-Analysis
 
 # Ola Ride Data Analysis Dashboard 🚖📊
 
@@ -26,16 +25,20 @@ This project presents a comprehensive analysis of Ola ride data using **Power BI
 ## 📁 Project Structure
 
 ola-analysis/
+
 ├── data/
+
 │ └── cleaned_ola_data.csv
-├── OlaDashboard.pbix
+
+├── Ola_Analysis.pbix
+
 ├── README.md
 
 
 
 ## 🚀 How to View
 
-1. Download the `OlaDashboard.pbix` file
+1. Download the `Ola_Analysis.pbix` file
 2. Open it with **Power BI Desktop**
 
 ## 📬 Contact
