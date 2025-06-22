@@ -9,9 +9,14 @@ This project presents a comprehensive analysis of Ola ride data using **Power BI
 - Removed missing values, fixed data types, and normalized fields
 - Imported the cleaned data into Power BI
 - Created interactive visuals and dashboards
-![Screenshot 2025-06-22 180900](https://github.com/user-attachments/assets/5d880334-40b1-4878-936e-5fe93fb9e548)
+
+## 🖥️ Screenshots
+| Data Exploration | Prediction Interface |
+|------------------|----------------------|
+| <img src="![Screenshot 2025-06-22 180900](https://github.com/user-attachments/assets/5d880334-40b1-4878-936e-5fe93fb9e548)" width="400"> | <img src="![Screenshot 2025-06-22 180935](https://github.com/user-attachments/assets/375b8ff6-133c-4bbd-8ea9-c528d68720b6)" width="400"> |
+
 ![Screenshot 2025-06-22 180916](https://github.com/user-attachments/assets/ead0c9b0-c443-4360-b6bb-0376973095ab)
-![Screenshot 2025-06-22 180935](https://github.com/user-attachments/assets/375b8ff6-133c-4bbd-8ea9-c528d68720b6)
+
 ![Screenshot 2025-06-22 180949](https://github.com/user-attachments/assets/b02004ed-e155-447d-a190-0eabfb350bca)
 
 ## 🧰 Tools Used
